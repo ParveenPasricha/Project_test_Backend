@@ -16,7 +16,7 @@ app.use(express.json());
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://project-test-navy-three.vercel.app/",
+  "https://parveentest.vercel.app/",
 ];
 
 app.use(
